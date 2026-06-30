@@ -25,6 +25,5 @@ cd ..
 curl localhost
 ```
 
-# titulo 2
-carlos chacon calvo
-Integración y despliegue continuo
+## josue
+ci/cd
